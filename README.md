@@ -1,1 +1,2 @@
 # portfolio-wordpress
+# SWINDLERというサイトをwordpressを活用してアレンジ。newsという項目を追加し、wordpressの投稿機能と連携させてwordpress上での投稿をサイト上で表示させるようにしました。
