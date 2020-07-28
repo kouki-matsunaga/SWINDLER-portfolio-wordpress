@@ -1,2 +1,2 @@
 # portfolio-wordpress
-# SWINDLERというサイトをwordpressを活用してアレンジ。newsという項目を追加し、wordpressの投稿機能と連携させてwordpress上での投稿をサイト上で表示させるようにしました。
+# html・css・bootstrap・javascriptを利用して作成したSWINDLERという企業風サイトをwordpressを活用してアレンジしました。newsという項目を追加し、wordpressの投稿機能と連携させてwordpress上での投稿をサイト上で表示させるようにしました。
